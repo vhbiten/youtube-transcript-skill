@@ -57,7 +57,8 @@ nearly 200 comments from people hitting it.
 
 This skill sends the request to the [YouTube Transcript Scraper](https://apify.com/andracore/youtube-transcript-scraper),
 which runs on Apify with rotating residential proxies. Your agent gets the transcript no matter where it runs.
-More options for this problem in [docs/youtube-transcript-api-blocked-on-cloud.md](docs/youtube-transcript-api-blocked-on-cloud.md).
+More options for this problem in [this article on dev.to](https://dev.to/vhbiten/youtube-transcript-api-works-locally-but-fails-on-the-server-why-and-how-to-fix-it-3emk)
+(also in [docs/](docs/youtube-transcript-api-blocked-on-cloud.md)).
 
 ## Prefer MCP?
 
